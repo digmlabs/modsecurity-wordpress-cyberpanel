@@ -136,7 +136,7 @@ DigmLabs specializes in:
 * Malware cleanup & prevention
 * Infrastructure automation
 
-👉 https://digmlabs.com
+👉 [https://www.digmlabs.com](https://www.digmlabs.com/)
 
 ---
 
