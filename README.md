@@ -1,6 +1,6 @@
 # 🔒 ModSecurity Hardening Rules for WordPress on CyberPanel
 
-**Author:** Karanbir Singh | DigmLabs.com
+**Author:** Karanbir Singh | [DigmLabs.com](https://www.digmlabs.com/)
 **Version:** 1.0
 
 ---
